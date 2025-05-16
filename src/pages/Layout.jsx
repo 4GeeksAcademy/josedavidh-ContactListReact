@@ -6,7 +6,7 @@ import { Navbar } from "../components/Navbar"
 export const Layout = () => {
     return (
         <ScrollToTop>
-            <Navbar />
+            {/* <Navbar /> */}
             <Outlet />
         </ScrollToTop>
     )

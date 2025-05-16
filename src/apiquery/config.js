@@ -1,0 +1,1 @@
+export const urlBase = "https://playground.4geeks.com/contact/agendas";

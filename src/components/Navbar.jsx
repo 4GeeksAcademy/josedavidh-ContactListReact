@@ -6,7 +6,7 @@ export const Navbar = () => {
 		<nav className="navbar navbar-light">
 			<div className="container">
 				<div className="ms-auto">
-					<Link to="/demo">
+					<Link to="/AddContact">
 						<button className="btn btn-success">Add new contact</button>
 					</Link>
 				</div>
